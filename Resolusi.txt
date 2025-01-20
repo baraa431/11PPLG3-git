@@ -1,9 +1,11 @@
 Ini adalah resolusi XI pplg 3 untuk belajar git
-
+-Intro git dan github
 -Konsisten belajar git dan mengerjakan tugas git dan github
--Praktik github
+-
 -Praktik git
 -Belajar basis data
 -Api
+  *register themoviedb.org
+  *Api moviedb
 -Dokumentasi
 -Project video streaming
